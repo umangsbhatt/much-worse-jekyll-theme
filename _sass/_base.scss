@@ -19,6 +19,21 @@ body {
     background-color: $background;
     margin: 0 $spacing-unit/2;
     -webkit-text-size-adjust: 100%;
+    
+    -ms-font-feature-settings:     'smcp' 1, 'liga' 1;  /* IE10 */
+    -moz-font-feature-settings:    'smcp' 1, 'liga' 1;  /* Firefox */
+    -webkit-font-feature-settings: 'smcp' 1, 'liga' 1;  /* Chrome, Safari, Opera */
+    font-feature-settings:         'smcp' 1, 'liga' 1;  /* Future-proof! */
+}
+
+//  Headings
+h1, h2, h3, h4, h5, h6 {
+    font-family: $heading-font-family;
+    font-size:   $heading-font-size;
+    line-height: $heading-line-height;
+    color:       $text-color;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 
