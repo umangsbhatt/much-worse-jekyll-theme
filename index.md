@@ -13,7 +13,7 @@ I am a sophomore Electrical and Computer Engineering undergraduate at [Carnegie 
 ## Contact
 
 Umang Bhatt <br />
-07920 -> 15213
+07920 -> 15213 <br />
 Email: umang AT cmu DOT edu
 
 
