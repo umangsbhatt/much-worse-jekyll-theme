@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/UB.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/UB.jpg" caption="" max_width="100px" max_height="100px" align="right" %}
 
 ## About
 
