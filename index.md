@@ -10,10 +10,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Contact
 
-Rebel base <br />
+Umang Bhatt <br />
 [Yavin] <br />
 Galaxy far far away<br />
-Email: [chewy@rebel.com]
+Email: [umang]
 
 
 [Yavin]: https://en.wikipedia.org/wiki/Yavin
