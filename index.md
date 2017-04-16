@@ -12,12 +12,23 @@ I am a sophomore Electrical and Computer Engineering undergraduate at [Carnegie 
 
 ## Contact
 
-Umang Bhatt <br />
-07920 -> 15213 <br />
-Email: umang AT cmu DOT edu
+Who: Umang Bhatt <br />
+What: Anything <br />
+When: Anytime (Preferably between 8am and 2am)
+Where: 07920 || 15213 <br />
+How: Any of the following
+* Email: umang AT cmu DOT edu
+* [Linkedin]
+* [Instagram]
+* [Facebook]
+* [Github]
 
 
 [Carnegie Mellon University]: www.cmu.edu
 [Professor David O'Hallaron]: http://www.cs.cmu.edu/~droh/
 [Professor Zico Kolter]: www.zicokolter.com
 [Groupon]: www.groupon.com
+[Linkedin]: www.linkedin.com/in/umangsbhatt
+[Instagram]: www.instagram.com/umangsbhatt
+[Facebook]: www.facebook.com/umangsbhatt
+[Github]: www.github.com/umangsbhatt
