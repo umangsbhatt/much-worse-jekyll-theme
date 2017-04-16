@@ -33,7 +33,7 @@ I'm "trying" to make reading habitual. To at least read one book a month seems r
 ## Projects
 Currently, under Professor Zico Kolter, I am working on a project to use smartphone gyroscope and accelerometer data to build a real-time classifier to annotate potholes in major cities. More to come soon.
 
-[15-388: Practical Data Science]: www.datasciencecourse.org
+[15-388: Practical Data Science]: http://www.datasciencecourse.org
 [15-213: Introduction to Computer Systems]: http://www.cs.cmu.edu/~./213/
 [15-214: Principles of Software Construction]: https://www.cs.cmu.edu/~ckaestne/15214/s2017/
 [18-240: Digital System Design]: https://www.ece.cmu.edu/courses/items/18240.html
