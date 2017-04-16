@@ -25,11 +25,11 @@ Why: <i> Why not? </i>
 
 
 
-[Carnegie Mellon University]: www.cmu.edu
+[Carnegie Mellon University]: http://www.cmu.edu
 [Professor David O'Hallaron]: http://www.cs.cmu.edu/~droh/
-[Professor Zico Kolter]: www.zicokolter.com
-[Groupon]: www.groupon.com
-[Linkedin]: www.linkedin.com/in/umangsbhatt
-[Instagram]: www.instagram.com/umangsbhatt
-[Facebook]: www.facebook.com/umangsbhatt
-[Github]: www.github.com/umangsbhatt
+[Professor Zico Kolter]: http://www.zicokolter.com
+[Groupon]: http://www.groupon.com
+[Linkedin]: http://www.linkedin.com/in/umangsbhatt
+[Instagram]: http://www.instagram.com/umangsbhatt
+[Facebook]: http://www.facebook.com/umangsbhatt
+[Github]: http://www.github.com/umangsbhatt
