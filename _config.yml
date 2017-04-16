@@ -1,5 +1,5 @@
 title: Umang Bhatt
-description: Umang Bhatt's Personal Landing Page
+description: Umang Bhatt's Webpage
 #sourcecode: "https://github.com/gchauras/www"
 
 permalink: blog/:year/:month/:day/:title
@@ -22,10 +22,10 @@ highlighter: rouge
 # Set 'provider' to false to turn analytics off globally.
 #
 analytics:
-    provider:
+    provider: statcounter
     statcounter:
-        sc_project  :
-        sc_security :
+        sc_project  : 11316930
+        sc_security : cb925e66
         sc_invisible: 1
         sc_text     : 2
     google:
