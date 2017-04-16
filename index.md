@@ -15,6 +15,7 @@ Who: <i>Umang Bhatt</i> <br />
 What: <i>Anything</i> <br />
 When: <i>Anytime (Preferably between 8am and 2am)</i> <br />
 Where: <i> 07920 || 15213 </i> <br />
+Why: <i> Why not? </i> <br />
 How: <i>Any of the following</i> <br />
 * [Linkedin]
 * [Instagram]
@@ -22,7 +23,6 @@ How: <i>Any of the following</i> <br />
 * [Github]
 * Email: umang AT cmu DOT edu 
 <br />
-Why: <i> Why not? </i>
 
 
 
