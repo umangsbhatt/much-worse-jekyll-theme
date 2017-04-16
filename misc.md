@@ -3,23 +3,23 @@ layout: page
 permalink: /misc/
 ---
 
-## Interests
+# Interests
+When I'm not studying or working on any of my side projects, you can find me listening to [bhangra] music, watching one from the following undorder pair: {[Warriors], [Falcons]}, drinking coffee, or volunteering with [BAPS]'s North American Children's Activities.
 
-### Bhangra 
+[bhangra]: https://open.spotify.com/user/22hduc4qv55hxsvzazraxxfki/playlist/5O1CoGLu8lbsgtLPpus0QK
+[Warriors]: www.nba.com/warriors
+[Falcons]: www.atlantafalcons.com
+[BAPS]: www.baps.org
 
-### Warriors
-
-### Coffee
-
-### BAPS
 
 ## Classes
 During my time at CMU (thus far), these have been my (most demanding yet) favorite classes.
-5. [18-240: Digital System Design] - Datapath >>> FSMs #3Bchampion
-4. [15-112: Fundamentals of Programming] - It's not a just a class, it's a lifestyle
-3. [15-214: Principles of Software Construction] - 11,000 of Scrabble made this worth it
-2. [15-213: Introduction to Computer Systems] - Who doesn't love building their own proxy server?
-1. [15-388: Practical Data Science] - I am probably biased since this course my research professor teaches, but, hands-down, this class was the most rewarding and the most practical, as it's name suggests.
+0. [18-240: Digital System Design] - Datapath >> FSMs #3Bchampion
+0. [15-112: Fundamentals of Programming] - It's not a just a class, it's a lifestyle
+0. [15-214: Principles of Software Construction] - 11,000 of Scrabble made this worth it
+0. [15-213: Introduction to Computer Systems] - Who doesn't love building their own proxy server?
+0. [15-388: Practical Data Science] - I am probably biased since this course my research professor teaches, but, hands-down, this class was the most rewarding and the most practical, as it's name suggests.
+{: reversed="reversed"}
 
 ## Books
 I'm "trying" to make reading habitual. At least read one book a month seems reasonable to me. Here's a list of my most recent reads.
