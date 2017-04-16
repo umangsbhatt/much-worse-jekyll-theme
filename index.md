@@ -11,16 +11,17 @@ I am a sophomore Electrical and Computer Engineering undergraduate at [Carnegie 
 
 ## Contact
 
-Who: Umang Bhatt <br />
-What: Anything <br />
-When: Anytime (Preferably between 8am and 2am)
-Where: 07920 || 15213 <br />
-How: Any of the following
+Who: <i>Umang Bhatt</i> <br />
+What: <i>Anything</i> <br />
+When: <i>Anytime (Preferably between 8am and 2am)</i> <br />
+Where: <i> 07920 || 15213 </i> <br />
+How: <i>Any of the following</i> <br />
 * Email: umang AT cmu DOT edu
 * [Linkedin]
 * [Instagram]
 * [Facebook]
 * [Github]
+
 
 
 [Carnegie Mellon University]: www.cmu.edu
