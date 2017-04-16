@@ -14,11 +14,11 @@ When I'm not studying or working on any of my side projects, you can find me lis
 
 ## Classes
 During my time at CMU (thus far), these have been my (most demanding yet) favorite classes.
-0. [18-240: Digital System Design] - Datapath >> FSMs #3Bchampion
+0. [18-240: Digital System Design] - Datapaths >> FSMs #3Bchampion
 0. [15-112: Fundamentals of Programming] - It's not a just a class, it's a lifestyle
-0. [15-214: Principles of Software Construction] - 11,000 of Scrabble made this worth it
+0. [15-214: Principles of Software Construction] - 11,000 lines of Scrabble made this worth it
 0. [15-213: Introduction to Computer Systems] - Who doesn't love building their own proxy server?
-0. [15-388: Practical Data Science] - I am probably biased since this course my research professor teaches, but, hands-down, this class was the most rewarding and the most practical, as it's name suggests.
+0. [15-388: Practical Data Science] - I am probably biased since this course my research professor teaches this, but, hands-down, this class was the most rewarding and the most practical, as it's name suggests, class I have taken yet at CMU.
 {: reversed="reversed"}
 
 
