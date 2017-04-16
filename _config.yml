@@ -1,6 +1,5 @@
 title: Umang Bhatt
-description: Umang Bhatt
-sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
+description: Umang Bhatt's Webpage
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]

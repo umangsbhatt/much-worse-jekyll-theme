@@ -4,9 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/UB.jpg" caption="" max_width="300px" align="right" %}
-
-## About
+{% include image.html url="images/UB.jpg" caption="" max_width="300px" max_height="300px" align="right" %}
 
 I am an aspiring social-good engineer with a penchant for data science, IoT, and community service, with an infectious enthusiasm for technology and innovation, and with a dream to one day be a polymath.
 
@@ -15,7 +13,7 @@ I am a sophomore Electrical and Computer Engineering undergraduate at [Carnegie 
 ## Contact
 
 Umang Bhatt <br />
-07920 -> 15213
+07920 -> 15213 <br />
 Email: umang AT cmu DOT edu
 
 
