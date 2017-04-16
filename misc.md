@@ -4,9 +4,9 @@ permalink: /misc/
 ---
 
 # Interests
-When I'm not studying or working on any of my side projects, you can find me listening to [bhangra] music, watching one from the following undorder pair: {[Warriors], [Falcons]}, drinking coffee, or volunteering with [BAPS]'s North American Children's Activities.
+When I'm not studying or working on any of my side projects, you can find me listening to [Bhangra] music, watching one from the following undorder pair: {[Warriors], [Falcons]}, drinking coffee, or volunteering with [BAPS]'s North American Children's Activities.
 
-[bhangra]: https://open.spotify.com/user/22hduc4qv55hxsvzazraxxfki/playlist/5O1CoGLu8lbsgtLPpus0QK
+[Bhangra]: https://open.spotify.com/user/22hduc4qv55hxsvzazraxxfki/playlist/5O1CoGLu8lbsgtLPpus0QK
 [Warriors]: http://www.nba.com/warriors
 [Falcons]: http://www.atlantafalcons.com
 [BAPS]: http://www.baps.org
