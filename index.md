@@ -20,7 +20,8 @@ How: <i>Any of the following</i> <br />
 * [Instagram]
 * [Facebook]
 * [Github]
-* Email: umang AT cmu DOT edu
+* Email: umang AT cmu DOT edu 
+<br />
 Why: <i> Why not? </i>
 
 
