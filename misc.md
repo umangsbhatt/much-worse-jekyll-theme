@@ -18,7 +18,7 @@ During my time at CMU (thus far), these have been my (most demanding yet) favori
 0. [15-112: Fundamentals of Programming] - It's not a just a class, it's a lifestyle.
 0. [15-214: Principles of Software Construction] - 11,000 lines of Scrabble made this worth it.
 0. [15-213: Introduction to Computer Systems] - Who doesn't love building their own proxy server?
-0. [15-388: Practical Data Science] - I am probably biased, since my research professor teaches this course, but, hands-down, this class was the most rewarding and the most practical, as it's name suggests, class I have taken yet at CMU.
+0. [15-388: Practical Data Science] - I am probably biased - my research professor teaches this course - but, hands-down, this class was the most rewarding and the most practical, as it's name suggests, class I have taken yet at CMU.
 {: reversed="reversed"}
 
 
