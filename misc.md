@@ -13,17 +13,17 @@ When I'm not studying or working on any of my side projects, you can find me lis
 
 
 ## Classes
-During my time at CMU (thus far), these have been my (most demanding yet) favorite classes.
+During my time at CMU (thus far), these have been my (most demanding yet) favorite classes, in descending order.
 0. [18-240: Digital System Design] - Datapaths >> FSMs #3Bchampion
-0. [15-112: Fundamentals of Programming] - It's not a just a class, it's a lifestyle
-0. [15-214: Principles of Software Construction] - 11,000 lines of Scrabble made this worth it
+0. [15-112: Fundamentals of Programming] - It's not a just a class, it's a lifestyle.
+0. [15-214: Principles of Software Construction] - 11,000 lines of Scrabble made this worth it.
 0. [15-213: Introduction to Computer Systems] - Who doesn't love building their own proxy server?
-0. [15-388: Practical Data Science] - I am probably biased since this course my research professor teaches this, but, hands-down, this class was the most rewarding and the most practical, as it's name suggests, class I have taken yet at CMU.
+0. [15-388: Practical Data Science] - I am probably biased, since my research professor teaches this course, but, hands-down, this class was the most rewarding and the most practical, as it's name suggests, class I have taken yet at CMU.
 {: reversed="reversed"}
 
 
 ## Books
-I'm "trying" to make reading habitual. To at least read one book a month seems reasonable to me. Here's a list of my most recent reads.
+I'm *trying* to make reading habitual. To at least read one book a month seems reasonable to me. Here's a list of my most recent reads.
 * [Moonwalking with Einstein] by Joshua Foer: Foer made participatory journalism seem easy and mastering mind palace use even easier. This was an amazing book that thoroughly explored how and why we should make use of our memories in our digital world. <br />
 * [The Prize] by Dale Russakoff: Russakoff's book made realize how I am forever indebted to those who motivated me, pushed me, and positioned me to be able to flourish after high school. The academic opportunities - via STEM organizations, accelerated programs, and encourgaing teachers - and the extracurriular activities that I had taken for granted in my childhood in suburban New Jersey were nearly nonexistent thirty miles east of me. More detailed review to come soon. <br />
 * [The Fourth Industrial Revolution] by Klaus Schwab: Though short, this is a dense read that really helped me understand how I, as a ML/ IoT engineer, can beeter position myself and those around me to succeed in the imminent Industrial Revolution, as we digitize everything around us at unfathomable speeds. <br />
