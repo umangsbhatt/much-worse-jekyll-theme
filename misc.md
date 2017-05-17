@@ -31,7 +31,7 @@ I'm *trying* to make reading habitual. To at least read one book a month seems r
 --->
 * [Contagious] by Jonah Berger
 * [The Fourth Industrial Revolution] by Klaus Schwab
-* [Moonwalking with Einstien] by Joshua Foer
+* [Moonwalking with Einstein] by Joshua Foer
 * [Our Final Invention] by James Barrat
 * [The Prize] by Dale Russakoff
 
@@ -48,3 +48,4 @@ Currently, under Professor Zico Kolter, I am working on a project to use smartph
 [The Prize]: https://www.theatlantic.com/education/archive/2015/09/the-prize-book-review/406579/
 [The Fourth Industrial Revolution]: https://www.weforum.org/about/the-fourth-industrial-revolution-by-klaus-schwab
 [Our Final Invention]: http://www.jamesbarrat.com/
+[Contagious]: http://jonahberger.com/
