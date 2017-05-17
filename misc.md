@@ -23,11 +23,17 @@ During my time at CMU (thus far), these have been my (most demanding yet) favori
 
 
 ## Books
-I'm *trying* to make reading habitual. To at least read one book a month seems reasonable to me. Here's a list of my most recent reads.
-* [Moonwalking with Einstein] by Joshua Foer: Foer made participatory journalism seem easy and mastering mind palace use even easier. This was an amazing book that thoroughly explored how and why we should make use of our memories in our digital world. <br />
-* [The Prize] by Dale Russakoff: Russakoff's book made realize how I am forever indebted to those who motivated me, pushed me, and positioned me to be able to flourish after high school. The academic opportunities - via STEM organizations, accelerated programs, and encourgaing teachers - and the extracurriular activities that I had taken for granted in my childhood in suburban New Jersey were nearly nonexistent thirty miles east of me. More detailed review to come soon. <br />
-* [The Fourth Industrial Revolution] by Klaus Schwab: Though short, this is a dense read that really helped me understand how I, as a ML/ IoT engineer, can beeter position myself and those around me to succeed in the imminent Industrial Revolution, as we digitize everything around us at unfathomable speeds. <br />
-* [Our Final Invention] by James Barrat: Struggling to read this as my mind wanders with every paragraph. I find it hard to digest more than 5-10 pages per sitting. Barrat paints a dark, uninviting future, where AI rules us all.
+I'm *trying* to make reading habitual. To at least read one book a month seems reasonable to me. Here's a list of some of my most recent reads.
+<!---* [Moonwalking with Einstein] by Joshua Foer: Foer made participatory journalism seem easy and mastering mind palace use even easier. This was an amazing book that thoroughly explored how and why we should make use of our memories in our digital world. <br />
+[//]* [The Prize] by Dale Russakoff: Russakoff's book made realize how I am forever indebted to those who motivated me, pushed me, and positioned me to be able to flourish after high school. The academic opportunities - via STEM organizations, accelerated programs, and encourgaing teachers - and the extracurriular activities that I had taken for granted in my childhood in suburban New Jersey were nearly nonexistent thirty miles east of me. More detailed review to come soon. <br />
+[//]* [The Fourth Industrial Revolution] by Klaus Schwab: Though short, this is a dense read that really helped me understand how I, as a ML/ IoT engineer, can beeter position myself and those around me to succeed in the imminent Industrial Revolution, as we digitize everything around us at unfathomable speeds. <br />
+[//]* [Our Final Invention] by James Barrat: Struggling to read this as my mind wanders with every paragraph. I find it hard to digest more than 5-10 pages per sitting. Barrat paints a dark, uninviting future, where AI rules us all.
+--->
+* [Contagious] by Jonah Berger
+* [The Fourth Industrial Revolution] by Klaus Schwab
+* [Moonwalking with Einstien] by Joshua Foer
+* [Our Final Invention] by James Barrat
+* [The Prize] by Dale Russakoff
 
 
 ## Projects
