@@ -58,4 +58,4 @@ Under Professor Zico Kolter, I worked on a project to use smartphone gyroscope a
 [The Fourth Industrial Revolution]: https://www.weforum.org/about/the-fourth-industrial-revolution-by-klaus-schwab
 [Our Final Invention]: http://www.jamesbarrat.com/
 [Contagious]: http://jonahberger.com/
-[here]: https://umangsbhatt.github.io/Intelligent_Pothole_Detection_Bloomberg.pdf
+[here.]: https://umangsbhatt.github.io/Intelligent_Pothole_Detection_Bloomberg.pdf
