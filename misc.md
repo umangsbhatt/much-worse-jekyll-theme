@@ -46,7 +46,7 @@ I'm *trying* to make reading habitual. To at least read one book a month seems r
 
 
 ## Projects
-Under Professor Zico Kolter, I worked on a project to use smartphone gyroscope and accelerometer data to build a real-time classifier to annotate potholes in major cities. See the paper here.
+Under Professor Zico Kolter, I worked on a project to use smartphone gyroscope and accelerometer data to build a real-time classifier to annotate potholes in major cities. Here's the [paper].
 
 [15-388: Practical Data Science]: http://www.datasciencecourse.org
 [15-213: Introduction to Computer Systems]: http://www.cs.cmu.edu/~./213/
@@ -58,4 +58,4 @@ Under Professor Zico Kolter, I worked on a project to use smartphone gyroscope a
 [The Fourth Industrial Revolution]: https://www.weforum.org/about/the-fourth-industrial-revolution-by-klaus-schwab
 [Our Final Invention]: http://www.jamesbarrat.com/
 [Contagious]: http://jonahberger.com/
-[here.]: https://umangsbhatt.github.io/Intelligent_Pothole_Detection_Bloomberg.pdf
+[paper]: https://umangsbhatt.github.io/Intelligent_Pothole_Detection_Bloomberg.pdf
