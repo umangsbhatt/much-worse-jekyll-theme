@@ -37,4 +37,4 @@ How: <i>Any of the following</i> <br />
 [Facebook]: http://www.facebook.com/umangsbhatt
 [Github]: http://www.github.com/umangsbhatt
 [this]: https://people.groupon.com/2017/umang-groupon-chicago-engineering-intern/
-[Intelligent Pothole Detection]: umangsbhatt.github.io/Intelligent_Pothole_Detection_Bloomberg.pdf
+[Intelligent Pothole Detection]: https://umangsbhatt.github.io/Intelligent_Pothole_Detection_Bloomberg.pdf
